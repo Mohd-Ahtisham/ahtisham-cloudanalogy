@@ -2,7 +2,23 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "c/selector": [
+                "selector/selector.js"
+            ],
+            "c/myFirstWebComponent": [
+                "myFirstWebComponent/myFirstWebComponent.js"
+            ],
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
+            ],
+            "c/detail": [
+                "detail/detail.js"
+            ],
+            "c/bikeCard": [
+                "bikeCard/bikeCard.js"
+            ]
+        }
     },
     "include": [
         "**/*",
