@@ -3,20 +3,20 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
-            "c/selector": [
-                "selector/selector.js"
-            ],
-            "c/myFirstWebComponent": [
-                "myFirstWebComponent/myFirstWebComponent.js"
-            ],
-            "c/helloWorld": [
-                "helloWorld/helloWorld.js"
+            "c/bikeCard": [
+                "bikeCard/bikeCard.js"
             ],
             "c/detail": [
                 "detail/detail.js"
             ],
-            "c/bikeCard": [
-                "bikeCard/bikeCard.js"
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
+            ],
+            "c/myFirstWebComponent": [
+                "myFirstWebComponent/myFirstWebComponent.js"
+            ],
+            "c/selector": [
+                "selector/selector.js"
             ]
         }
     },
